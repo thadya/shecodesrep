@@ -39,7 +39,7 @@ body {
    
     border-radius: 5px;
     height: 45vh;
-background: url(	file:///C:/Users/thady/OneDrive/Documents/GitHub/shecodesrep/photo-150.jpg);
+background-image: url("/images/photo-150.jpg");
     box-shadow: rgba(37, 39, 89, 0.08) 0px 8px 8px 0;
     list-style: none;
     margin: 30px auto;
